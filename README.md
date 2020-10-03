@@ -18,7 +18,7 @@ I currently passionate about Django, Spring Boot, Javascript, Angular and Automa
 - [![Instagram](https://img.shields.io/badge/--instagram?label=Instageam&logo=Instagram&style=social)](https://www.instagram.com/kavi_agno3/) 😎
 - [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](http://linkedin.com/in/KavishAgnihotri/) 👨💼
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kavish-Agnihotri&show_icons=true&count_private=true"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Agnihotri&layout=compact&hide=tsql&show_icons=true" />
-
+<p float="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=Kavish-Agnihotri&show_icons=true&count_private=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish-Agnihotri&layout=compact&hide=tsql&show_icons=true&theme=radical" />
+</p>
