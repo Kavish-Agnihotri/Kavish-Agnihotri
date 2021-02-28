@@ -11,7 +11,7 @@ I currently passionate about Django, Spring Boot, Javascript, Angular and Automa
 </p>
 
 ### 💻 What i am currently working on
-- [Campus-Placement-app](http://campusplacement.ga/)  🚀
+- [Platform](https://github.com/jsbhatia12367/platform)  🚀
 
 ### 📫 Where to find me
 - [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/kavish218) 😏
